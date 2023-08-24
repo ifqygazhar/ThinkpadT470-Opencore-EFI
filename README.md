@@ -54,6 +54,7 @@
 - HDMI
 - Trackpoint
 - Trackpad gesture
+- Camera
 
 ## What doesn't work and not tested:
 - FingerPrint Reader ( not tested )
